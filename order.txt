@@ -1,0 +1,11 @@
+Treasure Chest Gold
+Crit Damage
+Haste
+Gold Received
+Click Damage
+Monster Gold
+Autoattack Damage
+Clickable Gold
+Mana Regeneration
+Total Energy
+Total Mana
