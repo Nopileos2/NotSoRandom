@@ -7,7 +7,7 @@ This mod is the updated version of the previously released
 [Not So Random Mod](https://www.reddit.com/r/ClickerHeroes/comments/af5ffd/not_so_random_mod_081/).
 Please note this is only for the Automator gem available for Cid, not for the Exchange Spell available for Cursor.
 
-##Installation
+## Installation
 
 For a general guide please refer to https://www.clickerheroes2.com/installing_mods.php on how to install mods.
 
@@ -46,7 +46,7 @@ Total Energy
 Total Mana
 ```
 
-##Build it yourself
+## Build it yourself
 
 To build the mod yourself please refer to the [basic tutorial](https://www.clickerheroes2.com/creating_mods.php)
 on how to develop mods for CH2. If there are problems with getting the SDK installed try to download it manually and set
