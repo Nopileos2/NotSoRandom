@@ -1,3 +1,6 @@
+# IMPORTANT: Mod is currently not working as of game version 0.18. 
+
+
 # NotSoRandom
 This is a mod for [Clicker Heros 2](https://www.clickerheroes2.com) to make the "Buy Random Catalog Item" gem 
 not so random anymore. It allows you to prioritize certain stats other others. Please note that it will only take the
